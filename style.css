@@ -1,0 +1,24 @@
+.jumbotron {
+    padding: 3rem;
+    background-color:rgb(255, 237, 216) ;
+}
+
+#about {
+    padding: 3rem;
+}
+
+#project {
+    padding: 3rem;
+    background-color:rgb(255, 237, 216) ;
+}
+
+#contact {
+    padding: 3rem;
+}
+
+.footer {
+    padding: 3rem;
+    background-color:#c29a6a ; 
+}
+
+
